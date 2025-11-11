@@ -1,4 +1,4 @@
-# 🛵 Helmet Violation Detection System
+# 🛵 HelmetGuard AI - Intelligent Traffic Safety Enforcement System
 
 An automated system to detect cyclists without helmets, capture violator images, and read license plates using YOLOv11 and PaddleOCR, deployed with a Gradio web interface.
 
@@ -23,7 +23,7 @@ An automated system to detect cyclists without helmets, capture violator images,
 
 ```bash
 # If you have git
-git clone <your-repo-url>
+git clone https://github.com/KPN147/HelmetGuard-AI.git
 cd helmet-violation-detection
 
 # Or download and extract the files
@@ -316,7 +316,7 @@ This project is for educational and authorized traffic enforcement purposes only
 
 ## 👤 Author
 
-Your Name - Traffic Safety AI System
+Khanh Pham - Intelligent Traffic Safety Enforcement System
 
 ## 🙏 Acknowledgments
 
