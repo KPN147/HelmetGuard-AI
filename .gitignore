@@ -1,0 +1,26 @@
+# ── Model & weights ──
+*.pt
+*.onnx
+weights/
+
+# ── Outputs ──
+outputs/
+output_video.mp4
+result.jpg
+Original.jpg
+Resize.jpg
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ── IDE ──
+.vscode/
+.idea/
+
+# ── OS ──
+.DS_Store
+Thumbs.db
